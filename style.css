@@ -3,7 +3,23 @@
 body{
     font-family: 'Hiragino kaku Gothic Pro','Meiryo',sans-serif;
     font-size: 14px;
+    background-color: #eee;
 }
 .start{
+    text-align: center;
+}
+.header{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.header ul{
+    display: flex;
+}
+
+.header ul li {
+    width: 200px;
+    min-width: 400px;
     text-align: center;
 }
