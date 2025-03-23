@@ -13,7 +13,7 @@ body{
     width: 1000px;
     margin: auto;
     background-color: #fff;
-    padding-bottom: 20px;
+    padding-bottom: 200px;
 }
 
 img {
@@ -24,4 +24,14 @@ a{
     text-decoration: none;
     color: black;
     font-size: 30px;
+}
+
+.header ul{
+    padding-top: 50px;
+    display: flex;
+}
+
+.header ul li{
+    width: 200px;
+    min-width: 300px;
 }
