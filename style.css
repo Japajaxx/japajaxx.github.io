@@ -27,11 +27,17 @@ a{
 }
 
 .header ul{
-    padding-top: 50px;
+    padding-top: 30px;
     display: flex;
 }
 
 .header ul li{
     width: 200px;
     min-width: 300px;
+}
+
+.header h3{
+    padding-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
