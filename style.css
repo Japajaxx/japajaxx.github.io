@@ -28,7 +28,11 @@ a{
 
 .header ul{
     padding-top: 10px;
+    padding-bottom: 10px;
     display: flex;
+    border-left: #fff;
+    border-right: #fff;
+    border-style: solid;
 }
 
 .header ul li{
