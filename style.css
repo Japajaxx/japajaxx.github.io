@@ -13,17 +13,22 @@ body{
     width: 1000px;
     margin: auto;
     background-color: #fff;
-    padding-bottom: 200px;
+    padding-bottom: 30px;
 }
 
 img {
     margin: center;
+    box-shadow: 5px 5px 3px rgb(177, 177, 177);
   }
 
 a{
     text-decoration: none;
     color: black;
     font-size: 30px;
+}
+
+.header h1{
+    padding-top: 10px;
 }
 
 .header ul{
