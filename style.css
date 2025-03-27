@@ -27,6 +27,22 @@ a{
     font-size: 30px;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
+.red a:hover{
+    color: red;
+}
+
+.blue a:hover{
+    color: blue;
+}
+
+.green a:hover{
+    color: green;
+}
+
 .header h1{
     padding-top: 10px;
 }
@@ -43,6 +59,9 @@ a{
 .header ul li{
     width: 200px;
     min-width: 300px;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
 }
 
 .header h3{
