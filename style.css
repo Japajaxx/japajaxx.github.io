@@ -48,7 +48,7 @@ a:hover {
     padding-top: 10px;
 }
 
-.header ul{
+.index-ul{
     padding-top: 10px;
     padding-bottom: 10px;
     display: flex;
@@ -57,7 +57,7 @@ a:hover {
     border-style: solid;
 }
 
-.header ul li{
+.index-ul li{
     width: 200px;
     min-width: 300px;
     text-decoration: none;
